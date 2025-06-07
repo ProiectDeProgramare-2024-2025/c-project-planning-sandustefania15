@@ -1,0 +1,6 @@
+player1,10
+player2,6
+player3,12
+player5,5
+player4,9
+player7,6
